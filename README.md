@@ -1,2 +1,4 @@
-# Logistic-Regression-Credit-Scores
-Using Logistic Regression to predict loan approval based on credit score
+# DS-Key-Concepts
+
+- Logistic Regression
+  - Credit Score
